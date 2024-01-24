@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/rodrigo-castilho">
-   <img height="50em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-castilho&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-   <img height="50em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-castilho&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-castilho&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-castilho&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
